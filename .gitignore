@@ -1,0 +1,6 @@
+.DS_Store
+PebbleKit-*/
+PebbleSDK-*/
+arm-cs-tools/
+libpebble/
+lightblue-*/
